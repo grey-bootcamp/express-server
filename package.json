@@ -1,0 +1,23 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "maaad",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grey-bootcamp/express-server.git"
+  },
+  "author": "Abubakar Ahmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grey-bootcamp/express-server/issues"
+  },
+  "homepage": "https://github.com/grey-bootcamp/express-server#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
